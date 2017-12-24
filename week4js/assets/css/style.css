@@ -1,0 +1,52 @@
+body {
+   background: url("../images/christmas-colour.png");
+
+}
+
+.container{
+  width: 960px;
+  margin: 30px 30px 30px 30px;
+
+
+}
+.head {
+  background-color: red;
+  color: white;
+  margin: 30px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
+  width: 300px;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.rules {
+  background-color: red;
+  color: white;
+  margin: 30px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
+  width: 300px;
+  font-size: 15px;
+  line-height: 20px;
+}
+p {
+
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+#target {
+  background-color: red;
+  color: white;
+  margin: 30px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
+  width: 300px;
+  font-size: 15px;
+  line-height: 20px;
+
+}
+
+#crystal0 {
+  background-color: blue;
+
+}
